@@ -20,7 +20,3 @@ I am still new to Data Science/Machine Learning. This is the first Machine Learn
 3. Figuring out which features are important and which are not
 4. Parameter Tuning for Classification models (XGBoost and LightGBM)
 
-## Scores
-My best submission scores:
-
-![Scores](/images/scores.PNG)
